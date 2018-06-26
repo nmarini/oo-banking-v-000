@@ -13,7 +13,7 @@ attr_reader :name
   end
 
   def display_balance
-    "your balance is $#{balance}.
+    "your balance is $#{balance}."
   end
 
 end
